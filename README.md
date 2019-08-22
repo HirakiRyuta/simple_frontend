@@ -1,4 +1,4 @@
-# simple-pj
+# simple-frontend
 
 ## Project setup
 ```
