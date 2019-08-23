@@ -1,14 +1,15 @@
 # simple-frontend
 
-## Project setup
+## 環境構築
 ```
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+### 開発環境で起動
 ```
-yarn run serve
+yarn start
 ```
+アクセスは http://localhost:4000/
 
 ### Compiles and minifies for production
 ```
