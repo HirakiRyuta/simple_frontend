@@ -2,6 +2,7 @@
   "items":[
     {
       "tops":{
+        "id": 38,
         "title": "クルーネックT（半袖）",
         "color": "white",
         "size": "L",
@@ -9,6 +10,7 @@
         "price": 1000
       },
       "bottoms":{
+        "id": 89,
         "title": "ヴィンテージレギュラーフィットチノ（すっきりテーパード）",
         "color": "brown",
         "size": "82",
@@ -18,6 +20,7 @@
     },
     {
       "tops":{
+        "id": 22,
         "title": "ソフトタッチクールネックT（長袖）",
         "color": "black",
         "size": "L",
@@ -25,6 +28,7 @@
         "price": 1000
       },
       "bottoms":{
+        "id": 147,
         "title": "感動パンツ（ウルトラライト・ウールライク）セットアップ可能",
         "color": "gray",
         "size": "82",
@@ -34,6 +38,7 @@
     },
     {
       "tops":{
+        "id": 90,
         "title": "イージーケアジャージーシャツ（長袖）",
         "color": "white",
         "size": "L",
@@ -41,6 +46,7 @@
         "price": 1990
       },
       "bottoms":{
+        "id": 55,
         "title": "ウルトラストレッチアクティブパンツ",
         "color": "black",
         "size": "M",

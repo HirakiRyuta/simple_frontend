@@ -17,8 +17,11 @@ export default class InputForm extends Vue {
 
   @Prop() public placeholder?: string
 
-  public input(event: object) {
+  @Emit()
+  public input(event: any) {
     this.fixInvalidInput(event, this.prev)
+    // 親コンポーネントにemitする際は親の@inputの引数として戻り値が使われる
+    return event.target.value
   }
 
   /**

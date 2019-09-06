@@ -5,7 +5,7 @@
   </div>
 </template>
 
-<script>
+<script lang="ts">
 import { Component, Vue } from 'vue-property-decorator'
 import TopsCard from '@/components/TopsCard.vue'
 import BottomsCard from '@/components/BottomsCard.vue'
@@ -16,7 +16,9 @@ import BottomsCard from '@/components/BottomsCard.vue'
     BottomsCard
   }
 })
-export default class ItemPannel extends Vue {}
+export default class ItemPannel extends Vue {
+  isInCart: boolean = false
+}
 </script>
 
 <style scoped lang="scss"></style>
