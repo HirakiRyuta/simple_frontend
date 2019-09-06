@@ -1,9 +1,8 @@
 <template>
   <div>
     <ItemPannel />
-    <MyButton greet='hello' />>
-  <div/>
-  
+    <MyButton greet="hello" />
+  </div>
 </template>
 
 <script>

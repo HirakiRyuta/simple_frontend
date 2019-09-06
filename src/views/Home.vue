@@ -1,7 +1,10 @@
 <template>
   <div>
-    <inputForm placeholder="height" name="height" type="number" />
-    <inputForm placeholder="weight" name="weight" type="number" />
+    <form>
+      <inputForm placeholder="height" name="height" type="number" />
+      <inputForm placeholder="weight" name="weight" type="number" />
+      <input type="submit" value="submit" />
+    </form>
     <div>
       <Pannels />
     </div>
