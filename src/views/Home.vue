@@ -1,18 +1,26 @@
 <template>
-  <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js + TypeScript App"/>
+  <div>
+    <form>
+      <inputForm placeholder="height" name="height" type="number" />
+      <inputForm placeholder="weight" name="weight" type="number" />
+      <input type="submit" value="submit" />
+    </form>
+    <div>
+      <Pannels />
+    </div>
   </div>
 </template>
 
 <script lang="ts">
-import { Component, Vue } from 'vue-property-decorator';
-import HelloWorld from '@/components/HelloWorld.vue'; // @ is an alias to /src
+import { Component, Watch, Vue } from 'vue-property-decorator'
+import InputForm from '@/components/InputForm.vue'
+import Pannels from '@/components/Pannels.vue'
 
 @Component({
   components: {
-    HelloWorld,
-  },
+    InputForm,
+    Pannels
+  }
 })
 export default class Home extends Vue {}
 </script>

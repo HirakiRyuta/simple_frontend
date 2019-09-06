@@ -1,0 +1,52 @@
+{
+  "items":[
+    {
+      "tops":{
+        "title": "クルーネックT（半袖）",
+        "color": "white",
+        "size": "L",
+        "image": "https://im.uniqlo.com/images/jp/pc/goods/414351/item/00_414351.jpg",
+        "price": 1000
+      },
+      "bottoms":{
+        "title": "ヴィンテージレギュラーフィットチノ（すっきりテーパード）",
+        "color": "brown",
+        "size": "82",
+        "image": "https://im.uniqlo.com/images/jp/pc/goods/413161/item/35_413161.jpg",
+        "price": 2990
+      }
+    },
+    {
+      "tops":{
+        "title": "ソフトタッチクールネックT（長袖）",
+        "color": "black",
+        "size": "L",
+        "image": "https://im.uniqlo.com/images/jp/pc/goods/418696/item/09_418696.jpg",
+        "price": 1000
+      },
+      "bottoms":{
+        "title": "感動パンツ（ウルトラライト・ウールライク）セットアップ可能",
+        "color": "gray",
+        "size": "82",
+        "image": "https://im.uniqlo.com/images/jp/pc/goods/414668/item/05_414668.jpg",
+        "price": 3990
+      }
+    },
+    {
+      "tops":{
+        "title": "イージーケアジャージーシャツ（長袖）",
+        "color": "white",
+        "size": "L",
+        "image": "https://im.uniqlo.com/images/jp/pc/goods/421861/item/00_421861.jpg",
+        "price": 1990
+      },
+      "bottoms":{
+        "title": "ウルトラストレッチアクティブパンツ",
+        "color": "black",
+        "size": "M",
+        "image": "https://im.uniqlo.com/images/jp/pc/goods/415496/item/09_415496.jpg",
+        "price": 1990
+      }
+    }
+  ]
+}
